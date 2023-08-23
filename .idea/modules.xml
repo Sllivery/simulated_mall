@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lagou_canal/lagou_canal.iml" filepath="$PROJECT_DIR$/lagou_canal/lagou_canal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simulated_mall_common/simulated_mall_common.iml" filepath="$PROJECT_DIR$/simulated_mall_common/simulated_mall_common.iml" />
+    </modules>
+  </component>
+</project>
